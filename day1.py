@@ -40,5 +40,5 @@ def main():
     print(f"part 2 = {part2(calories)}")
 
 main()
-# part 1 answer is: 69501
-# part 2 answer is: 202346
+# part 1 answer is: 70698
+# part 2 answer is: 206643
